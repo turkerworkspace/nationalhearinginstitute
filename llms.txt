@@ -1,0 +1,102 @@
+# National Hearing Institute
+
+> National Hearing Institute is an independent publisher of hearing health research, OTC hearing aid evaluations, and senior-focused educational guides. Editorial review is led by Dr Jeffrey Smith, AuD (Doctor of Audiology). We accept no payment for editorial coverage. Content is referenced against the U.S. FDA, the National Institute on Deafness and Other Communication Disorders (NIDCD/NIH), the World Health Organization, and peer-reviewed audiology research.
+
+Site canonical: https://nationalhearinginstitute.org/
+Contact: editor@nationalhearinginstitute.org
+Editor-in-Chief: Dr Jeffrey Smith, AuD
+Last reviewed (site-wide): 2026-05-24
+
+## About
+
+- [About National Hearing Institute](https://nationalhearinginstitute.org/about/): Mission, what we publish, editor-in-chief bio, and how we stay independent.
+- [Editorial Standards & Disclosures](https://nationalhearinginstitute.org/editorial-standards/): Independence policy, affiliate disclosures, sourcing standards, review process, corrections policy.
+- [Affiliate & Editorial Disclosure](https://nationalhearinginstitute.org/disclosure/): How NHI funds its editorial work, what affiliate relationships exist (currently Panda Hearing), and the firewall that keeps research and rankings independent of those relationships.
+- [Methodology](https://nationalhearinginstitute.org/methodology/): Public 100-point scoring rubric for evaluating OTC hearing aids across speech clarity, ease of use, personalization, and consumer protection.
+
+## Editor's picks
+
+- [Editor's Picks: Best OTC Hearing Aids for 2026](https://nationalhearinginstitute.org/picks/): NHI editor's picks for over-the-counter hearing aids in 2026, organized by use case — discreet plug-and-play (Panda Stealth, $279), earbud-style with Bluetooth (Panda Air, $299), and clinical-grade self-fitting (Panda Quantum, $349). Each pick is presented with full Product schema (offers, price, availability, warranty), a clear right-for / not-right-for breakdown, and an affiliate disclosure linking to /disclosure/. Reviewed by Dr Jeffrey Smith, AuD.
+- [Best Hearing Aids for Tinnitus in 2026](https://nationalhearinginstitute.org/picks/best-hearing-aids-for-tinnitus/): Editor's pick for adults whose tinnitus is accompanied by perceived mild-to-moderate hearing loss — the Panda Quantum ($349), an OTC self-fitting hearing aid with adaptive tinnitus masking and frequency-specific amplification. Includes MedicalWebPage + ItemList + Product + FAQPage structured data. Reviewed by Dr Jeffrey Smith, AuD.
+- [Best Rechargeable Hearing Aids for 2026](https://nationalhearinginstitute.org/picks/best-rechargeable-hearing-aids/): Three rechargeable OTC picks compared by form factor (invisible ITC, earbud-style ITC, receiver-in-canal), battery life (60–80 hours per case-charge), and warranty length (all three carry a 5-year manufacturer warranty). Includes a side-by-side battery-spec comparison table and the case for why warranty length matters more than advertised hours-per-charge. ItemList + 3 Product schemas + FAQPage. Reviewed by Dr Jeffrey Smith, AuD.
+
+## Core canonical articles
+
+- [Best OTC Hearing Aids for Seniors in 2026](https://nationalhearinginstitute.org/articles/best-otc-hearing-aids-2026/): Framework-based buying guide for adults evaluating their first over-the-counter hearing aid. Covers the four evaluation areas, OTC market categories, and a pre-purchase checklist (HowTo schema).
+- [How Self-Fitting Hearing Aids Work](https://nationalhearinginstitute.org/articles/how-self-fitting-hearing-aids-work/): What the FDA's self-fitting subcategory actually covers, how in-app hearing tests calibrate amplification, what self-fitting handles well, and where it falls short.
+- [OTC vs Prescription Hearing Aids](https://nationalhearinginstitute.org/articles/otc-vs-prescription-hearing-aids/): How the FDA's October 17, 2022 Final Rule reshaped consumer hearing care; who each category serves; practical differences in fitting, follow-up care, and cost; when prescription remains the safer path.
+- [Are AirPods Pro hearing aids?](https://nationalhearinginstitute.org/articles/are-airpods-pro-hearing-aids/): What the FDA's September 12, 2024 authorization of Apple's Hearing Aid Feature actually approved, who it fits, hardware/software requirements, and where AirPods fall short of dedicated hearing aids.
+- [How much do hearing aids cost in 2026?](https://nationalhearinginstitute.org/articles/how-much-do-hearing-aids-cost-2026/): Current price ranges for OTC ($200–$2,500) and prescription ($2,500–$6,000) hearing aids, where the money actually goes, Costco pricing, and how to reduce out-of-pocket cost.
+- [Does Medicare cover hearing aids?](https://nationalhearinginstitute.org/articles/does-medicare-cover-hearing-aids/): Full 2026 coverage breakdown — Original Medicare excludes hearing aids; Medicare Advantage often covers; HSA/FSA eligible; VA free for veterans; cochlear implants covered separately. Includes FAQPage structured data.
+- [Do hearing aids help tinnitus?](https://nationalhearinginstitute.org/articles/do-hearing-aids-help-tinnitus/): Honest, evidence-grounded answer. AAO-HNS Clinical Practice Guideline recommends a hearing aid evaluation for tinnitus with documented hearing loss; the Cochrane review is more cautious. Mechanisms, red flags, what does not help. Includes FAQPage structured data.
+- [Hearing loss and dementia: what the ACHIEVE trial actually found](https://nationalhearinginstitute.org/articles/hearing-loss-and-dementia-achieve-trial/): Deep-dive on the 2023 ACHIEVE multicentre randomised controlled trial (Lin et al., Lancet) — null primary endpoint, significant prespecified subgroup analysis in higher-risk older adults, and how this fits with the 2024 Lancet Commission framework.
+- [How to read an audiogram](https://nationalhearinginstitute.org/articles/how-to-read-an-audiogram/): Plain-English guide to audiogram structure, ASHA symbols (O, X, &lt;, &gt;), dB HL severity bands, configuration patterns (sloping, ski-slope, cookie-bite, notched), air vs bone conduction, and the limits of what an audiogram can tell you. Includes an inline SVG audiogram diagram with ImageObject schema.
+
+## Awareness & symptom articles
+
+- [Signs of hearing loss in adults](https://nationalhearinginstitute.org/articles/signs-of-hearing-loss-in-adults/): The 10 most common early signs of hearing loss in adults, why family members usually notice first, and when each signal warrants a hearing screen versus a prompt clinician visit. FAQPage schema.
+- [What causes hearing loss?](https://nationalhearinginstitute.org/articles/what-causes-hearing-loss/): Sensorineural, conductive, and mixed types — and the distinct causes within each, from aging and noise exposure to earwax impaction and middle-ear conditions.
+- [Sudden hearing loss: when it's a medical emergency](https://nationalhearinginstitute.org/articles/sudden-hearing-loss-emergency/): Evidence-grounded explainer on SSNHL. The 14-day audiometric window, 2-week corticosteroid window, AAO-HNS 2019 guideline recommendations, treatment options, MRI for retrocochlear pathology. FAQPage schema.
+- [Hearing loss in one ear](https://nationalhearinginstitute.org/articles/hearing-loss-in-one-ear/): Why unilateral loss is a clinical red flag. Causes from earwax to vestibular schwannoma, the AAO-HNS workup, MRI indication, and CROS/BiCROS/cochlear implant treatment options.
+- [Noise-induced hearing loss](https://nationalhearinginstitute.org/articles/noise-induced-hearing-loss/): How noise damages hearing, the NIOSH 85 dBA / 8-hour standard with 3 dB exchange rate, recreational exposure limits (Neitzel &amp; Fligor), the 4 kHz audiogram notch, what's recoverable, prevention with hearing protection.
+- [Can hearing loss be reversed?](https://nationalhearinginstitute.org/articles/can-hearing-loss-be-reversed/): What's reversible (earwax, middle-ear fluid, some sudden cases), what's partially reversible (SSNHL within 2 weeks), what isn't (age-related, cumulative noise), and what comes closest (hearing aids, cochlear implants). FAQPage schema.
+- [Why does everyone sound like they're mumbling?](https://nationalhearinginstitute.org/articles/why-does-everyone-sound-like-mumbling/): The classic description of high-frequency hearing loss. Why consonants drop out before vowels, the speech banana, why "speak up" doesn't help, and what frequency-shaped amplification actually does.
+
+## Practical / how-to articles
+
+- [How to clean hearing aids](https://nationalhearinginstitute.org/articles/how-to-clean-hearing-aids/): Daily and weekly cleaning routine, what tools to use, what to avoid (water, alcohol, ultrasonic cleaners), and when to replace wax guards and domes. Marked up with HowTo schema (7 steps).
+- [How long do hearing aids last?](https://nationalhearinginstitute.org/articles/how-long-do-hearing-aids-last/): Typical 3–7 year lifespan by category (prescription 5–7, OTC 3–5, AirPods Pro 2–3), what affects lifespan, what warranty covers, and the three signals it's time to replace. FAQPage schema.
+- [Hearing aid batteries explained](https://nationalhearinginstitute.org/articles/hearing-aid-batteries-explained/): Rechargeable lithium-ion is the 2026 default — how charging cases work (16–30 hours per charge, 60–80 hours total per case-charge cycle), when disposable zinc-air still makes sense, the four legacy sizes (10/yellow, 312/brown, 13/orange, 675/blue), and troubleshooting both.
+- [Do I need one hearing aid or two?](https://nationalhearinginstitute.org/articles/one-or-two-hearing-aids/): The binaural benefit — sound localisation, speech-in-noise (binaural summation, squelch, head-shadow), and auditory deprivation. When one device is enough. FAQPage schema.
+
+## Reference pages
+
+- [Hearing Aid & Audiology Glossary](https://nationalhearinginstitute.org/glossary/): Plain-English definitions of ~30 hearing aid, audiology, and FDA-regulatory terms — audiogram, presbycusis, RIC, BTE, PSAP, real-ear measurement, self-fitting, Apple Hearing Aid Feature, and more. Marked up with DefinedTermSet schema.
+
+## Indexes
+
+- [Research Library](https://nationalhearinginstitute.org/research/): Hearing-health research summaries on age-related hearing loss, OTC technology, speech-in-noise comprehension, and untreated hearing loss & cognition.
+- [Consumer Guides](https://nationalhearinginstitute.org/guides/): Plain-English buying guides, signs of hearing loss, hearing test explainers, and pre-purchase checklists. Includes FAQPage structured data.
+- [2026 OTC Hearing Aid Rankings & Evaluation Framework](https://nationalhearinginstitute.org/rankings/): Public scoring framework and the four OTC product categories we track.
+
+## Primary sources we cite
+
+- FDA Final Rule on OTC Hearing Aids: https://www.federalregister.gov/documents/2022/08/17/2022-17230/medical-devices-ear-nose-and-throat-devices-establishing-over-the-counter-hearing-aids
+- FDA press announcement — first OTC hearing aid software (Apple AirPods, Sept 12, 2024): https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-over-counter-hearing-aid-software
+- Apple Support — Use the Hearing Aid feature on AirPods Pro 2 / Pro 3: https://support.apple.com/en-us/120992
+- Medicare.gov — Hearing & balance exams coverage: https://www.medicare.gov/coverage/hearing-balance-exams
+- VA Hearing Aids (Rehabilitation and Prosthetic Services): https://www.prosthetics.va.gov/psas/hearing_aids.asp
+- IRS Publication 502 (Medical and Dental Expenses): https://www.irs.gov/publications/p502
+- NIDCD Quick Statistics About Hearing: https://www.nidcd.nih.gov/health/statistics/quick-statistics-hearing
+- NIDCD Age-Related Hearing Loss (Presbycusis): https://www.nidcd.nih.gov/health/age-related-hearing-loss
+- WHO World Report on Hearing (2021): https://www.who.int/publications/i/item/9789240020481
+- ACHIEVE trial (Lin et al., Lancet 2023): https://doi.org/10.1016/S0140-6736(23)01406-X
+- 2024 Lancet standing Commission on dementia (Livingston et al.): https://doi.org/10.1016/S0140-6736(24)01296-0
+- Long-Term Outcomes of Self-Fit vs Audiologist-Fit Hearing Aids (De Sousa et al., JAMA Otolaryngol Head Neck Surg 2024): https://doi.org/10.1001/jamaoto.2024.1825
+- Comparing Self-Fitting Strategies for OTC Hearing Aids (Knoetze et al., JAMA Otolaryngol Head Neck Surg 2024): https://doi.org/10.1001/jamaoto.2024.2007
+- Lin FR et al. Hearing loss and incident dementia (Arch Neurol 2011): https://doi.org/10.1001/archneurol.2010.362
+- Keidser & Convery. Self-Fitting Hearing Aids: Status Quo and Future Predictions (Trends Hear 2016): https://doi.org/10.1177/2331216516643284
+- Myers, Reed, Lin, Willink. Health Policy Barriers to Hearing Treatment for Medicare Beneficiaries (Semin Hear 2022): https://doi.org/10.1055/s-0042-1743122
+- Treffalls & Shah. Apple AirPods Pro 2 receives FDA approval to be used as hearing aids (Artif Organs 2024): https://doi.org/10.1111/aor.14889
+- Tunkel DE et al. Clinical Practice Guideline: Tinnitus (Otolaryngol Head Neck Surg, 2014): https://doi.org/10.1177/0194599814545325
+- Hoare DJ et al. Amplification with hearing aids for patients with tinnitus and co-existing hearing loss (Cochrane Database Syst Rev, 2014): https://doi.org/10.1002/14651858.CD010151.pub2
+- Bhatt JM, Lin HW, Bhattacharyya N. Prevalence of Tinnitus in the United States (JAMA Otolaryngol Head Neck Surg, 2016): https://doi.org/10.1001/jamaoto.2016.1700
+- ASHA — Degree of Hearing Loss: https://www.asha.org/public/hearing/degree-of-hearing-loss/
+- ASHA — Guidelines for Audiometric Symbols: https://www.asha.org/policy/gl1990-00006/
+- StatPearls — Audiogram Interpretation: https://www.ncbi.nlm.nih.gov/books/NBK578179/
+- ClinicalTrials.gov — ACHIEVE trial (NCT03243422): https://clinicaltrials.gov/study/NCT03243422
+- Chandrasekhar SS et al. Clinical Practice Guideline: Sudden Hearing Loss (Update). Otolaryngol Head Neck Surg, 2019: https://doi.org/10.1177/0194599819859885
+- Schwartz SR et al. Clinical Practice Guideline (Update): Earwax (Cerumen Impaction). Otolaryngol Head Neck Surg, 2017: https://doi.org/10.1177/0194599816671491
+- Neitzel RL, Fligor BJ. Risk of NIHL from recreational sound. J Acoust Soc Am, 2019: https://doi.org/10.1121/1.5132287
+- NIDCD — Noise-Induced Hearing Loss: https://www.nidcd.nih.gov/health/noise-induced-hearing-loss
+- NIDCD — Sudden Deafness: https://www.nidcd.nih.gov/health/sudden-deafness
+- NIDCD — Cochlear Implants: https://www.nidcd.nih.gov/health/cochlear-implants
+- NIOSH — Occupational Noise Exposure: https://www.cdc.gov/niosh/topics/noise/
+- WHO — Make Listening Safe: https://www.who.int/activities/making-listening-safe
+- ASHA — Configuration of Hearing Loss: https://www.asha.org/public/hearing/configuration-of-hearing-loss/
+
+## Editorial scope
+
+In scope: adult and geriatric hearing health, over-the-counter hearing aid technology, self-fitting devices, age-related hearing loss (presbycusis), speech-in-noise comprehension, consumer protection in hearing aid purchases, hearing loss and cognition.
+
+Out of scope: pediatric hearing care, cochlear implants, professional clinical practice, individualized medical advice, interpretation of personal audiograms.
